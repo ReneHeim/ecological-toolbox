@@ -99,7 +99,8 @@ Going further
 
 ### Types of data visualizations:
 
--   Get some inspiration and code templates at [The R Graph Gallary](https://r-graph-gallery.com/)
+- A decision tree and examples to help picking an appropriate visualization [From data to Viz](https://www.data-to-viz.com/) 
+- Get some inspiration and code templates at [The R Graph Gallary](https://r-graph-gallery.com/)
 
 ### Going deeper
 
